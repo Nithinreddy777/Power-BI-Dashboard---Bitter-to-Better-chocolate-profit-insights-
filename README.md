@@ -27,9 +27,9 @@ Interactive filtering for deeper analysis
 
 
 ## Tools Used
-Power BI
-Power Query 
-Data Modelling
+Power BI , 
+Power Query , 
+Data Modelling .
 
 ## Conclusion
 
